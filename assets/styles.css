@@ -45,6 +45,11 @@ h3{
     color: hsl(212, 21%, 14%);
 }
 
+.text2{
+    background-color: none;
+    width: 88%;
+}
+
 #bigText{
     margin-top: 2.5px;
     margin-bottom: 0.5rem;
